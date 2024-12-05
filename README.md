@@ -1,1 +1,1 @@
-# Water-Crises-in-African-Country-Project
+# Water Crises in African Country Project
