@@ -48,7 +48,7 @@ Maji Ndogo faces a severe water crisis impacting its population's daily lives an
 
 The datasets used in this analysis can be downloaded below:
 - [Water Access Data part1](Data/Md_water_services_data.xlsx)
-- [Water Acces Data part2](Data/Md_water_services_data (3).xlsx)
+- [Water Acces Data part2](Data/Md_water_services_data(3).xlsx)
 
 ---
 
