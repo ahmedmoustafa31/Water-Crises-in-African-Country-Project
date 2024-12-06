@@ -168,6 +168,6 @@ The datasets used in this analysis can be downloaded below:
 ## Author
 
 - [Ahmed Moustafa Kamal](https://github.com/amoustafakamal31)  
-  Data Analyst and Community Development Advocate
+   Data Analyst and Business Intelligence Developer
 
 
